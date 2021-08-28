@@ -7,4 +7,11 @@ Esta hecha solo para termux!
 
 No me hago cargo de lo que hagan con ella!
 
+
+Instalacion
+
+pkg install git
+
+git clone https://github.com/zMarx10/ArmyX-recognition
+
 Version: 0.0.1
