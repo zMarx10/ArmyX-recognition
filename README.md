@@ -5,5 +5,6 @@ Esta hecha solo para termux!
 
 ![alt text](https://media.discordapp.net/attachments/878326814941012062/881027512187101184/1630123678887.png)
 
+No me hago cargo de lo que hagan con ella!
 
 Version: 0.0.1
